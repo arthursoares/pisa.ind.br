@@ -18,23 +18,23 @@ sass:
   style: compressed # expanded
 
 # SEO settings
-title: end2end
-description: "A free Jekyll theme for download"
-keywords: "Jekyll, theme, free, download, SEO, blog, web"
-url: http://nandomoreira.me
-baseurl: "/end2end"
+title: "Pisa"
+description: "No mercado há mais de cinco décadas, a Pará Indústria de Alumínio Ltda. é uma empresa dotada de tradição e qualidade."
+keywords: "aluminio, panelas, para, tradicao"
+url: http://pisa.ind.br
+baseurl: ""
 
 google_analytics: UA-52446115-1
-repo: http://github.com/nandomoreirame/end2end
-disqus_shortname: "nandothemes"
-disqus_site_shortname: "nandothemes"
+repo: http://github.com/arthursoares/pisa.ind.br
+disqus_shortname: ""
+disqus_site_shortname: ""
 
 # Author settings
 author:
-  name: Fernando Moreira
-  job: Frontend Engineer
+  name: Arthur Soares
+  job: 
   bio: "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
-  thumb: /images/author.jpg
+  thumb: /images/pisa.jpg
   email: nandomoreira.me@gmail.com
   url: https://nandomoreira.me/
   github: https://github.com/nandomoreirame
