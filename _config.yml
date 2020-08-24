@@ -18,8 +18,8 @@ sass:
   style: compressed # expanded
 
 # SEO settings
-title: "Pisa"
-description: "No mercado há mais de cinco décadas, a Pará Indústria de Alumínio Ltda. é uma empresa dotada de tradição e qualidade."
+title: "Pará Industrial de Aluminio Ltda."
+description: "No mercado há mais de cinco décadas, a Pará Industrial de Aluminio Ltda. é uma empresa dotada de tradição e qualidade."
 keywords: "aluminio, panelas, para, tradicao"
 url: http://pisa.ind.br
 baseurl: ""
